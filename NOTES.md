@@ -26,3 +26,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: format ggplot2 significance annotation helpers
 - **Technical Summary**: Utilized ggsignif package to plot p-value brackets on boxplots.
 
+### Milestone Log - 2025-06-16 (19:20)
+- **Focus**: docs: update hypothesis testing guidelines in R
+- **Technical Summary**: Detailed null vs alternative hypotheses formulation and alpha selection.
+
