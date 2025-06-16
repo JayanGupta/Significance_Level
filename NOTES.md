@@ -22,3 +22,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: add notes on Student's t-test vs Mann-Whitney U test
 - **Technical Summary**: Documented normality checking via Shapiro-Wilk test before parametric tests.
 
+### Milestone Log - 2025-06-16 (14:48)
+- **Focus**: refactor: format ggplot2 significance annotation helpers
+- **Technical Summary**: Utilized ggsignif package to plot p-value brackets on boxplots.
+
