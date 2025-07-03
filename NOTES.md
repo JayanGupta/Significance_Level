@@ -54,3 +54,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: update hypothesis testing guidelines in R
 - **Technical Summary**: Detailed null vs alternative hypotheses formulation and alpha selection.
 
+### Milestone Log - 2025-07-03 (14:31)
+- **Focus**: docs: add notes on Student's t-test vs Mann-Whitney U test
+- **Technical Summary**: Documented normality checking via Shapiro-Wilk test before parametric tests.
+
